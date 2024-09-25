@@ -29,6 +29,7 @@ This project scrapes job postings from Indeed using Selenium and fetches job dat
     pip install -r requirements.txt
 
 3. Add your Adzuna API credentials to a .env file in the root directory of the project:
+    ```bash
     APP_ID=your_adzuna_app_id
     APP_KEY=your_adzuna_app_key
 
